@@ -1,0 +1,8 @@
+[INFO ] 2024-07-24 16:19:49.174 [main] UserTests - ********Creating user*************
+[INFO ] 2024-07-24 16:19:49.341 [main] UserTests - ******** user created*************
+[INFO ] 2024-07-24 16:19:49.345 [main] UserTests - ********getting user info*************
+[INFO ] 2024-07-24 16:19:49.521 [main] UserTests - ******** user info retreived *************
+[INFO ] 2024-07-24 16:19:49.531 [main] UserTests - ********Updating user*************
+[INFO ] 2024-07-24 16:19:49.920 [main] UserTests - ******** user is updated*************
+[INFO ] 2024-07-24 16:19:49.931 [main] UserTests - ********Removing user*************
+[INFO ] 2024-07-24 16:19:50.119 [main] UserTests - ******** user removed *************

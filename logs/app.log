@@ -1,0 +1,24 @@
+[INFO ] 2024-07-25 11:03:49.367 [main] UserTests2 - ********Creating user*************
+[INFO ] 2024-07-25 11:03:51.985 [main] UserTests2 - ******** user created*************
+[INFO ] 2024-07-25 11:03:52.002 [main] UserTests2 - ********getting user info*************
+[INFO ] 2024-07-25 11:03:52.272 [main] UserTests2 - ******** user info retreived *************
+[INFO ] 2024-07-25 11:03:52.282 [main] UserTests2 - ********Updating user*************
+[INFO ] 2024-07-25 11:03:52.788 [main] UserTests2 - ******** user is updated*************
+[INFO ] 2024-07-25 11:03:52.794 [main] UserTests2 - ********Removing user*************
+[INFO ] 2024-07-25 11:03:53.056 [main] UserTests2 - ******** user removed *************
+[INFO ] 2024-07-25 11:34:30.440 [main] UserTests2 - ********Creating user*************
+[INFO ] 2024-07-25 11:34:32.675 [main] UserTests2 - ******** user created*************
+[INFO ] 2024-07-25 11:34:32.687 [main] UserTests2 - ********getting user info*************
+[INFO ] 2024-07-25 11:34:32.930 [main] UserTests2 - ******** user info retreived *************
+[INFO ] 2024-07-25 11:34:32.933 [main] UserTests2 - ********Updating user*************
+[INFO ] 2024-07-25 11:34:33.300 [main] UserTests2 - ******** user is updated*************
+[INFO ] 2024-07-25 11:34:33.302 [main] UserTests2 - ********Removing user*************
+[INFO ] 2024-07-25 11:34:33.461 [main] UserTests2 - ******** user removed *************
+[INFO ] 2024-07-25 13:07:53.262 [main] UserTests2 - ********Creating user*************
+[INFO ] 2024-07-25 13:07:55.574 [main] UserTests2 - ******** user created*************
+[INFO ] 2024-07-25 13:07:55.584 [main] UserTests2 - ********getting user info*************
+[INFO ] 2024-07-25 13:07:55.832 [main] UserTests2 - ******** user info retreived *************
+[INFO ] 2024-07-25 13:07:55.836 [main] UserTests2 - ********Updating user*************
+[INFO ] 2024-07-25 13:07:56.205 [main] UserTests2 - ******** user is updated*************
+[INFO ] 2024-07-25 13:07:56.207 [main] UserTests2 - ********Removing user*************
+[INFO ] 2024-07-25 13:07:56.398 [main] UserTests2 - ******** user removed *************
