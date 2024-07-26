@@ -22,3 +22,19 @@
 [INFO ] 2024-07-25 13:07:56.205 [main] UserTests2 - ******** user is updated*************
 [INFO ] 2024-07-25 13:07:56.207 [main] UserTests2 - ********Removing user*************
 [INFO ] 2024-07-25 13:07:56.398 [main] UserTests2 - ******** user removed *************
+[INFO ] 2024-07-25 18:23:06.306 [main] UserTests2 - ********Creating user*************
+[INFO ] 2024-07-25 18:23:10.322 [main] UserTests2 - ******** user created*************
+[INFO ] 2024-07-25 18:23:10.338 [main] UserTests2 - ********getting user info*************
+[INFO ] 2024-07-25 18:23:11.215 [main] UserTests2 - ******** user info retreived *************
+[INFO ] 2024-07-25 18:23:11.217 [main] UserTests2 - ********Updating user*************
+[INFO ] 2024-07-25 18:23:11.593 [main] UserTests2 - ******** user is updated*************
+[INFO ] 2024-07-25 18:23:11.595 [main] UserTests2 - ********Removing user*************
+[INFO ] 2024-07-25 18:23:11.774 [main] UserTests2 - ******** user removed *************
+[INFO ] 2024-07-25 18:24:34.612 [main] UserTests2 - ********Creating user*************
+[INFO ] 2024-07-25 18:24:36.681 [main] UserTests2 - ******** user created*************
+[INFO ] 2024-07-25 18:24:36.707 [main] UserTests2 - ********getting user info*************
+[INFO ] 2024-07-25 18:24:36.921 [main] UserTests2 - ******** user info retreived *************
+[INFO ] 2024-07-25 18:24:36.923 [main] UserTests2 - ********Updating user*************
+[INFO ] 2024-07-25 18:24:37.307 [main] UserTests2 - ******** user is updated*************
+[INFO ] 2024-07-25 18:24:37.309 [main] UserTests2 - ********Removing user*************
+[INFO ] 2024-07-25 18:24:37.482 [main] UserTests2 - ******** user removed *************
